@@ -2,7 +2,9 @@
 
 Please note that the various _lite_ projects are standalone projects, each a single-file header-only C++ library, without any dependencies other than the standard library.
 
-Issues of collective interest to these projects are collected in [nonstd-lite-project](https://github.com/martinmoene/nonstd-lite-project).
+Issues of collective interest to these projects are collected in [nonstd-lite](https://github.com/nonstd-lite/nonstd-lite).
+
+All/most projects still have their home at my [personal account](https://github.com/martinmoene).
 
 **Projects:**
 
