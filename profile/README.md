@@ -1,6 +1,6 @@
 ## Post-C++98 library features via polyfills.
 
-[![Repology](https://img.shields.io/badge/on-repology-blue.svg)](https://repology.org/projects/?search=nonstd-) [![Vcpkg](https://img.shields.io/badge/on-vcpkg-blue.svg)](https://vcpkg.link/search#q=-lite)
+[![Repology](https://img.shields.io/badge/on-repology-blue.svg)](https://repology.org/projects/?search=nonstd-) [![Vcpkg nonstd-](https://img.shields.io/badge/on-vcpkg:nonstd–*-blue.svg)](https://vcpkg.io/en/packages?query=nonstd-) [![Vcpkg -lite](https://img.shields.io/badge/on-vcpkg:*–lite-blue.svg)](https://vcpkg.io/en/packages?query=-lite)
 
 Please note that the various _lite_ projects are standalone projects, each a single-file header-only C++ library, without any dependencies other than the standard library.
 
