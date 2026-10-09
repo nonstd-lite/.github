@@ -17,7 +17,7 @@ These projects have been moved here from my [personal account](https://github.co
 - [boolean-lite](https://github.com/nonstd-lite/boolean-lite) &ndash; A strong boolean type for C++98 and later.
 - [byte-lite](https://github.com/nonstd-lite/byte-lite) &ndash; A C++17-like byte type for C++98, C++11 and later.
 - [expected-lite](https://github.com/nonstd-lite/expected-lite) &ndash; C++23 expected objects for C++11 and later.
-- [indirect-value-lite](https://github.com/nonstd-lite/indirect-value-lite) &ndash; An indirect value-type for C++11 and later (p1950).
+- [indirect-lite](https://github.com/nonstd-lite/indirect-lite) &ndash; An indirect value-type for C++11 and later (p1950).
 - [invoke-lite](https://github.com/nonstd-lite/invoke-lite) &ndash; C++17-like invoke() for C++98, C++11 and later (WIP).
 - [jthread-lite](https://github.com/nonstd-lite/jthread-lite) &ndash; C++20's jthread for C++11 and later (WIP).
 - [observer-ptr-lite](https://github.com/nonstd-lite/observer-ptr-lite) &ndash; An observer_ptr for C++98 and later (Extensions for Library Fundamentals, v2, v3).
