@@ -35,7 +35,7 @@ These projects have been moved here from my [personal account](https://github.co
 - [string-view-lite](https://github.com/nonstd-lite/string-view-lite) &ndash; A C++17-like string_view for C++98, C++11 and later .
 - [type-lite](https://github.com/nonstd-lite/type-lite) &ndash; Strong types for C++98, C++11 and later.
 - [value-ptr-lite](https://github.com/nonstd-lite/value-ptr-lite) &ndash; A C++ smart-pointer with value semantics for C++98, C++11 and later.   
-  See also [indirect-value-lite](https://github.com/nonstd-lite/indirect-value-lite).
+  See also [indirect-lite](https://github.com/nonstd-lite/indirect-value-lite).
 - [variant-lite](https://github.com/nonstd-lite/variant-lite) &ndash; A C++17-like variant, a type-safe union for C++98, C++11 and later.
 
 <!-- 
