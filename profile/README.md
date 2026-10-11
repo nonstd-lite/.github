@@ -30,8 +30,6 @@ These projects have been moved here from my [personal account](https://github.co
 - [span-lite](https://github.com/nonstd-lite/span-lite) &ndash; A C++20-like span for C++98, C++11 and later.
 - [status-value-lite](https://github.com/nonstd-lite/status-value-lite) &ndash; A class for status and optional value for C++11 and later, with C++98 variant also provided (p0262).
 - [string-lite](https://github.com/nonstd-lite/string-lite) &ndash; String algorithms for C++11 and later.
-- [string-non-lite](https://github.com/nonstd-lite/string-non-lite) &ndash; String facilities for C++98 and later.  
-  Prefer to use [string-lite](https://github.com/nonstd-lite/string-lite).
 - [string-view-lite](https://github.com/nonstd-lite/string-view-lite) &ndash; A C++17-like string_view for C++98, C++11 and later .
 - [type-lite](https://github.com/nonstd-lite/type-lite) &ndash; Strong types for C++98, C++11 and later.
 - [value-ptr-lite](https://github.com/nonstd-lite/value-ptr-lite) &ndash; A C++ smart-pointer with value semantics for C++98, C++11 and later.   
